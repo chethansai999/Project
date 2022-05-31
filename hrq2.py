@@ -18,3 +18,8 @@ elif (n > 20 and n % 2 == 0):
     print("Not Weird")
 else:
     print("Weird")
+<<<<<<< HEAD
+#created a branch in project after forking it from main branch
+=======
+#created a branch using command line and pushed it to the github global 
+>>>>>>> 28c53148c178e3ad966c93746969ecf1e2b24cd5
